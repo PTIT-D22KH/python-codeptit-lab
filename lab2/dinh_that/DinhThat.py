@@ -20,4 +20,5 @@ for _ in range(int(input())):
         if visited[v] == 0:
             res += 1
     print(res)
+    
 
