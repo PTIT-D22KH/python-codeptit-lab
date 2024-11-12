@@ -1,0 +1,1 @@
+{"name":"Local: khoangcachkitu","url":"d:\\Personal\\git_repo\\python-codeptit-lab\\lab3\\khoangcachkitu\\khoangcachkitu.py","tests":[{"id":1731391755534,"input":"2\nacxz\nbcxz","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Personal\\git_repo\\python-codeptit-lab\\lab3\\khoangcachkitu\\khoangcachkitu.py","group":"local","local":true}
